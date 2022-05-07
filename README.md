@@ -2,7 +2,7 @@
 
 **⚠️ Note: This is a working document that will certainly be changed a lot :)**
 
-[![Discord](https://img.shields.io/discord/971137288471998574)](https://discord.gg/nBFmWqZT9V)
+[![Discord](https://img.shields.io/discord/971137288471998574?logo=discord)](https://discord.gg/nBFmWqZT9V)
 
 TLDR: Starting with robots playing soccer is too complicated.
 
