@@ -65,7 +65,7 @@ do this is in "our proposal"?
 * Everything is open source technical and communication -> everybody can contribute
 * Project does NOT provide play-ready software, only libraries
 * Project provides only plans/layout for electronics and omniwheels
-
+* See all our design on our [decision board](decision-board.md)
 
 ## TODO
 
