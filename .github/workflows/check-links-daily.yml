@@ -1,4 +1,4 @@
-name: Links
+name: Check Links Daily
 
 on:
   repository_dispatch:
