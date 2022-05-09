@@ -30,11 +30,12 @@ Bruno is of round shape and should have a diameter of 18cm (22cm).
 **cons:**
 
 - easy to construct  
-- kicking-device easier integrable  
+- kicker easier integrable  
 
 **decision:**  
-(initially) both as variants  
-(wird endgültig ab: *Datum*)
+
+- (initially) both as variants  
+- (becomes final from: *date*)
 
 ### Number of wheels
 
@@ -56,9 +57,9 @@ The main PCB is part of the chassis and essential for stability.
 
 **decision:**  
 
-### Room for 'kicking-device'
+### Spece for kicker
 
-Enough room for a 'kicking-device', to be built in later, should be part of the construction.
+Sufficient space for a kicker to be installed later should be part of the construction.
 
 **pros:**  
 
@@ -80,16 +81,15 @@ Enough room for a 'kicking-device', to be built in later, should be part of the 
 
 ### motors
 
-### kicking-device
+### kicker
 
-### dribbling-device
+### dribbler
 
 ## Electronic
 
 ### CPU
 
 - Arduino Nano
-
 - Rasberry Pi Pico
 - ???
 
