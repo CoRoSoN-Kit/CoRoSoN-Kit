@@ -1,6 +1,7 @@
-name: Check Links on Pull Request
+name: Check Links
 
 on:
+  push:
   pull_request:
 
 jobs:
