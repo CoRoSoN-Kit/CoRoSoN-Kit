@@ -20,11 +20,11 @@ Let's start with the objective of the RoboCup:
 To achieve this ambitious goal in the remaining 28 years, the rules are tightened every year to bring them in line with those of FIFA.
 In addition, it's essential to motivate young researchers to participate, which is why schoolchildren are already encouraged to develop robots for RoboCupJunior.
 After more than 20 years of RoboCupJunior though, the needed technologies/electronics have reached a level that makes it increasingly more difficult for newcomers to enter the competition.
-This is why some regions (i.e. germany) have decided to introduce specific entry leagues, restricting allowed parts dramatically in order to reduce cost and complexity (most commonly LEGO + Fischertechnik only).
-Recently though, Lego has retired the MINDSTORMS EV3 and related components (*Source: [legoeducation.com](https://community.legoeducation.com/blogs/36/95)*).
-Additionally, the successor to LEGO Mindstorms - Robot Inventor - provides neither IR nor camera sensors, which are however indispensable for participation.
+This is why some regions (i.e. germany) have decided to introduce specific entry leagues, restricting allowed parts dramatically in order to reduce cost and complexity (most commonly LEGO®[^lego] + Fischertechnik only).
+Recently though, LEGO®[^lego] has retired the MINDSTORMS®[^lego] EV3 and related components (*Source: [legoeducation.com](https://community.legoeducation.com/blogs/36/95)*).
+Additionally, the LEGO®[^lego] MINDSTORMS®[^lego] successor to the EV3 - Robot Inventor - provides neither IR nor camera sensors, which are however indispensable for participation.
 The reason for this is that the new Robot Inventor app does not yet offer the option of integrating non-official sensor blocks.
-It's unclear whether LEGO will ever change this, posing a potential threat to the ease of entry for new and established teams alike.
+It's unclear whether LEGO®[^lego] will ever change this, posing a potential threat to the ease of entry for new and established teams alike.
 
 ## Our Proposal
 
@@ -42,7 +42,7 @@ Notes:
   * No full tutorial on "how to play soccer"
   * Just extensible electronics/hardware(adapter) kits. Soldering/mounting still required.
 * S perfect system which outperforms current world champions
-  * Similiarily to LEGO robots, Bruno should be capable of attending any current league but not straight up outperform other robots without *significant* improvements made by individual teams.
+  * Similiarily to LEGO®[^lego] robots, Bruno should be capable of attending any current league but not straight up outperform other robots without *significant* improvements made by individual teams.
   * TODO: explain deeper
 
 ## Schedule
@@ -64,7 +64,7 @@ do this is in "our proposal"?
 ## Notes
 
 * NO commercial goals at all
-* Beginner friendliness as there is a big step between Lego and own electronics already today
+* Beginner friendliness as there is a big step between LEGO®[^lego] and own electronics already today
 * Big teams have it anyways
 * Everything is open source technical and communication -> everybody can contribute
 * Project does NOT provide play-ready software, only libraries
@@ -73,6 +73,6 @@ do this is in "our proposal"?
 
 ## TODO
 
-* [ ] check (R) on all Logos
-* [ ] check spelling of LEGO, fischetechnik, Robocup
 * [ ] TLDR
+
+[^lego]: Disclaimer: LEGO® and MINDSTORMS® are trademark of the LEGO® Group, which does not sponsor, authorize or endorse this web site.
