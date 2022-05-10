@@ -1,10 +1,11 @@
 # Bruno-Robot
 
-**⚠️ Note:** This is a working document that will certainly be changed a lot :)
+**⚠️ Note:** This is a living document that will certainly be changed a lot :)
 
 [![Discord](https://img.shields.io/discord/971137288471998574?logo=discord)](https://discord.gg/nBFmWqZT9V)
 [![Check Links](https://github.com/bruno-robot/bruno-robot/actions/workflows/check-links.yml/badge.svg)](https://github.com/bruno-robot/bruno-robot/actions/workflows/check-links.yml)
 
+An in development robot platform for the RoboCupJunior Soccer competition.
 
 ## Motivation
 
