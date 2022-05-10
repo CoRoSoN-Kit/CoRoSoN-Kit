@@ -18,7 +18,7 @@ Let's start with the objective of the RoboCup:
 To achieve this ambitious goal in the remaining 28 years, the rules are tightened every year to bring them in line with those of FIFA.
 In addition, it's essential to motivate young researchers to participate, which is why schoolchildren are already encouraged to develop robots for RoboCupJunior.
 After more than 20 years of RoboCupJunior though, the needed technologies/electronics have reached a level that makes it increasingly more difficult for newcomers to enter the competition.
-This is why some regions (i.e. germany) have decided to introduce specific entry leagues, restricting allowed parts dramatically in order to reduce cost and complexity (most commonly LEGO®[^1] + Fischertechnik only).
+This is why some regions (i.e. germany) have decided to introduce specific entry leagues, restricting allowed parts dramatically in order to reduce cost and complexity (most commonly LEGO®[^lego] + Fischertechnik only).
 Recently though, LEGO®[^lego] has retired the MINDSTORMS®[^lego] EV3 and related components (*Source: [legoeducation.com](https://community.legoeducation.com/blogs/36/95)*).
 Additionally, the LEGO®[^lego] MINDSTORMS®[^lego] successor to the EV3 - Robot Inventor - provides neither IR nor camera sensors, which are however indispensable for participation.
 The reason for this is that the new Robot Inventor app does not yet offer the option of integrating non-official sensor blocks.
