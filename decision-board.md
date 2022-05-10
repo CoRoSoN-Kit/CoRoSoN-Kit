@@ -6,14 +6,14 @@ At some point the first Bruno will be built and before that a lot of decisions h
 Here is an overview (in keywords) of the discussed advantages and
 disadvantages of the different given options.
 
-**Important:**  
+**Important:**
 This document is (of course) not complete.
 It has to be further developed, depending on the state of development, in order to get finally a complete picture of Bruno.
 
-**to do:**  
+**to do:**
 
 - For each point,
-  - the pros and cons are needed (in keywords).  
+  - the pros and cons are needed (in keywords).
   - A decision is needed.
 - *As an example I started with the size.*
 
@@ -29,43 +29,43 @@ Bruno is of round shape and should have a diameter of 18cm (22cm).
 
 **cons:**
 
-- easy to construct  
-- kicker easier integrable  
+- easy to construct
+- kicker easier integrable
 
-**decision:**  
+**decision:**
 
-- (initially) both as variants  
+- (initially) both as variants
 - (becomes final from: *date*)
 
 ### Number of wheels
 
-Bruno should drive with three (four) individual controllable wheels.  
+Bruno should drive with three (four) individual controllable wheels.
 
-**pros:**  
+**pros:**
 
 **cons:**
 
-**decision:**  
+**decision:**
 
 ### Stability
 
 The main PCB is part of the chassis and essential for stability.
 
-**pros:**  
+**pros:**
 
 **cons:**
 
-**decision:**  
+**decision:**
 
 ### Spece for kicker
 
 Sufficient space for a kicker to be installed later should be part of the construction.
 
-**pros:**  
+**pros:**
 
 **cons:**
 
-**decision:**  
+**decision:**
 
 ## Sensors
 
@@ -95,23 +95,23 @@ Sufficient space for a kicker to be installed later should be part of the constr
 
 ### Components
 
-Only THT components should be used.  
+Only THT components should be used.
 THT and SMD components should be used.
 
-**pros:**  
+**pros:**
 
 **cons:**
 
-**decision:**  
+**decision:**
 
 ### PCB design
 
 There should be a minimum linewith (of ??mm) and a minimum spacing (of ??mm) between the tracks so that it is possible to etch or mill the PCB at home.
 
-**pros:**  
+**pros:**
 
 **cons:**
 
-**decision:**  
+**decision:**
 
 ## Software
