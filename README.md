@@ -3,6 +3,7 @@
 **⚠️ Note:** This is a living document that will certainly be changed a lot :)
 
 [![Discord](https://img.shields.io/discord/971137288471998574?logo=discord)](https://discord.gg/nBFmWqZT9V)
+[![GitHub Super-Linter](https://github.com/bruno-robot/bruno-robot/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/bruno-robot/bruno-robot/actions/workflows/super-linter.yml)
 [![Check Links](https://github.com/bruno-robot/bruno-robot/actions/workflows/check-links.yml/badge.svg)](https://github.com/bruno-robot/bruno-robot/actions/workflows/check-links.yml)
 
 An in development robot platform for the RoboCupJunior Soccer competition.
