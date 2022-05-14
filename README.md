@@ -42,7 +42,7 @@ Any development will be open source and open hardware.
 The try to make the process as transparent as possible.
 Any discussions will be public (here and/or discord) such that everyone is able to understand why we have decided for or against certain things.
 
-We would love to see robots build with Bruno in the standard leagues where LEGO robots are allowed today.
+We would love to see robots build with Bruno in the standard leagues where LEGO®[^lego] robots are allowed today.
 Until then, the components can be used in the LightWeight and Open League.
 
 ### Components
@@ -57,11 +57,11 @@ Currently monitored components of Bruno.
 | Line detection | 📋 |
 | IR detection module | 📋 |
 | Motor + driver | [🧠 #2](https://github.com/bruno-robot/bruno-robot/issues/2) |
-| Omniwheels | 📋 |
+| Omniwheel | 📋 |
 | IDE integration | 📋 |
 | Visual-Programming integration| 📋 |
-| Kicking device| ❓ |
-| Dribbling device | ❓ |
+| Kicker | ❓ |
+| Dribbler | ❓ |
 | Camera | ❓ |
 
 Legend:
