@@ -74,7 +74,7 @@ Legend:
 * ✅: Done
 * ❌: Not planned
 
-See all of our current design decicions on our [decision board](decision-board.md).
+See all of our current design decicions on our [decision board](docs/decision-board.md).
 
 ## What we DO NOT want
 
