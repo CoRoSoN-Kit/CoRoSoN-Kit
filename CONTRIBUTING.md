@@ -8,7 +8,6 @@ Do you have a question which is not answered here? Feel free to [open an issue](
 ### Workflow
 
 As a first step, it is recommended to understand the typical `git` commands, such as `clone`, `commit`, `push`, `merge`...
-As a first step, it is recommended to understand the typical terms, such as clone, commit, push, pull request, ... understand.
 Additionally, you should know what `feature branches` are and what `pull requests` are needed for.
 There are uncountable tutorials about this, IMHO a nice one is [this one](https://soshace.com/understanding-the-git-workflow/), but any other is definitely okay too.
 
