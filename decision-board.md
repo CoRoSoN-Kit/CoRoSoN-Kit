@@ -16,7 +16,6 @@ It has to be further developed, depending on the state of development, in order 
   - the pros and cons are needed (in keywords).
   - a decision is needed.
 
-
 ## Chassis
 
 ### Size
@@ -27,14 +26,13 @@ It has to be further developed, depending on the state of development, in order 
 
 *No decision here, every team has to decide and construct for their own.*
 
-
-
 ## Electronic
+
 ### Logic Voltage
 
-The logic voltage level should be 5V.  
-**or**  
-The logic voltage level should be 3.3V. 
+The logic voltage level should be 5V.
+**or**
+The logic voltage level should be 3.3V.
 
 **pros:**
 
@@ -44,8 +42,8 @@ The logic voltage level should be 3.3V.
 
 ### Motor Voltage
 
-The motor voltage level should be limited to 9V.  
-**or**  
+The motor voltage level should be limited to 9V.
+**or**
 The motor voltage level should not be limited (maximum: battery voltage).
 
 **pros:**
@@ -56,9 +54,9 @@ The motor voltage level should not be limited (maximum: battery voltage).
 
 ### CPU
 
-Use of a single board chip (like Arduino Nano, Rasberry Pico, ...)  
-**or**  
-Build or own. 
+Use of a single board chip (like Arduino Nano, Rasberry Pico, ...)
+**or**
+Build or own.
 
 **pros:**
 
@@ -66,11 +64,10 @@ Build or own.
 
 **decision:**
 
-
 ### Components
 
-Only THT components should be used.  
-**or**  
+Only THT components should be used.
+**or**
 THT and SMD components should be used.
 
 **pros:**
@@ -106,7 +103,5 @@ There should be a minimum linewith (of ??mm) and a minimum spacing (of ??mm) bet
 ### kicker
 
 ### dribbler
-
-
 
 ## Software
