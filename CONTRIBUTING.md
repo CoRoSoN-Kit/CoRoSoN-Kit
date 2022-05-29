@@ -18,7 +18,7 @@ To find and fix the problem, you can either commit changes and wait for the job 
 
 When documenting with Markdown [markdownlint](https://github.com/igorshubovych/markdownlint-cli) is used.
 Whe using the highly recommended editor [Visual Studio Code (vscode)](https://code.visualstudio.com/) you can install it as a [plugin](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint).
-After that you see markdown errors directly in the "PROBLEMS" section of vscode.
+After that you see Markdown errors directly in the "PROBLEMS" section of vscode.
 
 #### Linting text
 
@@ -27,7 +27,7 @@ There is also a [vscode plugin](https://marketplace.visualstudio.com/items?itemN
 
 ### "Check Links" failed
 
-Nobody likes broken links, so we use a github action to check all links.
+Nobody likes broken links, so we use a GitHub action to check all links.
 See the job details to see the broken link and adjust it.
 
 ## Working with GIT & GitHub is new to me. How to start?
