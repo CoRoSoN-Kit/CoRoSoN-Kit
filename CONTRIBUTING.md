@@ -3,6 +3,33 @@
 This document is intended to answer questions from (potentially new) contributors for all.
 Do you have a question which is not answered here? Feel free to [open an issue](https://github.com/bruno-robot/bruno-robot/issues/new) about it.
 
+## A job failed after my commit / pull request 😮
+
+First of all, don't feel bad if a job fails after your changes.
+Believe me, happens to everyone, all the time 😉.
+If you click on the small red cross, you will get information about which job failed and why.
+
+### "Lint Code Base" fails
+
+We use the [super-linter](https://github.com/github/super-linter), which bundles different linters, depending on the file type.
+To find and fix the problem, you can either commit changes and wait for the job or install the linter locally and fix the problem there before committing.
+
+#### Linting Markdown files
+
+When documenting with Markdown [markdownlint](https://github.com/igorshubovych/markdownlint-cli) is used.
+Whe using the highly recommended editor [Visual Studio Code (vscode)](https://code.visualstudio.com/) you can install it as a [plugin](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint).
+After that you see markdown errors directly in the "PROBLEMS" section of vscode.
+
+#### Linting text
+
+[textlint](https://textlint.github.io/) is used to lint written text.
+There is also a [vscode plugin](https://marketplace.visualstudio.com/items?itemName=taichi.vscode-textlint) here, but the setup was not straight-forward, so I skipped the local installation.
+
+### "Check Links" failed
+
+Nobody likes broken links, so we use a github action to check all links.
+See the job details to see the broken link and adjust it.
+
 ## Working with GIT & GitHub is new to me. How to start?
 
 ### Workflow
