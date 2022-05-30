@@ -1,9 +1,9 @@
-# Bruno-Robot
+# CoRoSoN-Kit
 
-[![Discord](https://img.shields.io/discord/971137288471998574?logo=discord)](https://discord.gg/nBFmWqZT9V)
-[![GitHub Super-Linter](https://github.com/bruno-robot/bruno-robot/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/bruno-robot/bruno-robot/actions/workflows/super-linter.yml)
-[![Check Links](https://github.com/bruno-robot/bruno-robot/actions/workflows/check-links.yml/badge.svg)](https://github.com/bruno-robot/bruno-robot/actions/workflows/check-links.yml)
-[![License](https://img.shields.io/github/license/bruno-robot/bruno-robot)](https://github.com/bruno-robot/bruno-robot/blob/main/LICENSE)
+[![Discord](https://img.shields.io/discord/971137288471998574?logo=discord)](https://discord.gg/xTAptqNB7J)
+[![GitHub Super-Linter](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/actions/workflows/super-linter.yml)
+[![Check Links](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/actions/workflows/check-links.yml/badge.svg)](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/actions/workflows/check-links.yml)
+[![License](https://img.shields.io/github/license/CoRoSoN-Kit/CoRoSoN-Kit)](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/blob/main/LICENSE)
 
 ## TLDR
 
@@ -41,24 +41,24 @@ Any development will be open source and open hardware.
 The try to make the process as transparent as possible.
 Any discussions will be public (here and/or discord) such that everyone is able to understand why we have decided for or against certain things.
 
-We would love to see robots build with Bruno in the standard leagues where LEGO®[^lego] robots are allowed today.
+We would love to see robots build with the CoRoSoN-Kit in the standard leagues where LEGO®[^lego] robots are allowed today.
 Until then, the components can be used in the LightWeight and Open League.
 
 ### Components
 
-Currently monitored components of Bruno.
+Currently monitored components of the CoRoSoN-Kit.
 
 | Component | Status |
 | --- | --- |
-| Brain/Main CPU | [🧠 #18](https://github.com/bruno-robot/bruno-robot/issues/18) |
-| User Interface | [🧠 #23](https://github.com/bruno-robot/bruno-robot/issues/23) |
-| Orientation sensor | [🧠 #22](https://github.com/bruno-robot/bruno-robot/issues/22) |
-| Line detection | [🧠 #24](https://github.com/bruno-robot/bruno-robot/issues/24) |
-| IR detection module | [🧠 #25](https://github.com/bruno-robot/bruno-robot/issues/25) |
-| Motor + driver | [🧠 #2](https://github.com/bruno-robot/bruno-robot/issues/2) |
-| Omniwheel | [🧠 #26](https://github.com/bruno-robot/bruno-robot/issues/26) |
-| IDE integration | [🧠 #27](https://github.com/bruno-robot/bruno-robot/issues/27) |
-| Visual-Programming integration| [🧠 #28](https://github.com/bruno-robot/bruno-robot/issues/28) |
+| Brain/Main CPU | [🧠 #18](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/18) |
+| User Interface | [🧠 #23](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/23) |
+| Orientation sensor | [🧠 #22](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/22) |
+| Line detection | [🧠 #24](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/24) |
+| IR detection module | [🧠 #25](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/25) |
+| Motor + driver | [🧠 #2](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/2) |
+| Omniwheel | [🧠 #26](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/26) |
+| IDE integration | [🧠 #27](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/27) |
+| Visual-Programming integration| [🧠 #28](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/28) |
 | Kicker | ❓ |
 | Dribbler | ❓ |
 | Camera | ❓ |
@@ -98,7 +98,7 @@ In order not to violate these rules:
   * We will not to provide the fastest motors, the best camera, the most powerful processors, etc. Instead we provide basic components which are affordable and available to everybody.
   * To actually win tournaments, individual teams would need to *substantially* change and improve all components.
 
-To summarize: Similar to LEGO®[^lego] robots, Bruno should be composable into a robot capable of attending any current league with relative ease, but it will always require a significant effort by the individual teams themselves.
+To summarize: Similar to LEGO®[^lego] robots, the CoRoSoN-Kit should be composable into a robot capable of attending any current league with relative ease, but it will always require a significant effort by the individual teams themselves.
 
 ## Who we are
 
@@ -109,12 +109,12 @@ For example, this would give us the opportunity to distribute circuit board blan
 
 ### Call for Contribution
 
-Bruno is open-source for a reason and that is you.
+The CoRoSoN-Kit is open-source for a reason and that is you.
 If you are passionate about the robocup and its goals
 our team is not fixed and we are always open to *your* contribution.
 Whether development, discussion, questions, feedback or criticism:
 Everything is welcome!
 
-Especially to teams utilizing Bruno: You are very welcome to play back your improvements, find the bugs we made in the libraries or just send us pictures of your robot. This way we can all celebrate the success of the robots in 2050 🤖⚽🏆.
+Especially to teams utilizing the CoRoSoN-Kit: You are very welcome to play back your improvements, find the bugs we made in the libraries or just send us pictures of your robot. This way we can all celebrate the success of the robots in 2050 🤖⚽🏆.
 
 [^lego]: Disclaimer: LEGO® and MINDSTORMS® are trademarks of the LEGO® Group, which does not sponsor, authorize or endorse this site.
