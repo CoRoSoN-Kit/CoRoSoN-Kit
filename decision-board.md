@@ -1,8 +1,6 @@
 # Decision Board
 
-## What Bruno should look like
-
-At some point the first Bruno will be built and before that a lot of decisions have to be made. How should its individual components be designed?
+At some point the first robot using our CoRoSoN-Kit will be built and before that a lot of decisions have to be made. How should its individual components be designed?
 Here is an overview (in keywords) of the discussed advantages and
 disadvantages of the different given options.
 

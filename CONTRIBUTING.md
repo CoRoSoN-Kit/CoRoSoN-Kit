@@ -1,7 +1,7 @@
 # Contribution FAQ (Frequently Asked Questions)
 
 This document is intended to answer questions from (potentially new) contributors for all.
-Do you have a question which is not answered here? Feel free to [open an issue](https://github.com/bruno-robot/bruno-robot/issues/new) about it.
+Do you have a question which is not answered here? Feel free to [open an issue](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/new) about it.
 
 ## A job failed after my commit / pull request 😮
 
