@@ -50,22 +50,22 @@ Currently monitored components of Bruno.
 
 | Component | Status |
 | --- | --- |
-| Brain/Main CPU | 📋 |
-| User Interface | 📋 |
-| Orientation sensor | 📋 |
-| Line detection | 📋 |
-| IR detection module | 📋 |
+| Brain/Main CPU | [🧠 #18](https://github.com/bruno-robot/bruno-robot/issues/18) |
+| User Interface | [🧠 #23](https://github.com/bruno-robot/bruno-robot/issues/23) |
+| Orientation sensor | [🧠 #22](https://github.com/bruno-robot/bruno-robot/issues/22) |
+| Line detection | [🧠 #24](https://github.com/bruno-robot/bruno-robot/issues/24) |
+| IR detection module | [🧠 #25](https://github.com/bruno-robot/bruno-robot/issues/25) |
 | Motor + driver | [🧠 #2](https://github.com/bruno-robot/bruno-robot/issues/2) |
-| Omniwheel | 📋 |
-| IDE integration | 📋 |
-| Visual-Programming integration| 📋 |
+| Omniwheel | [🧠 #26](https://github.com/bruno-robot/bruno-robot/issues/26) |
+| IDE integration | [🧠 #27](https://github.com/bruno-robot/bruno-robot/issues/27) |
+| Visual-Programming integration| [🧠 #28](https://github.com/bruno-robot/bruno-robot/issues/28) |
 | Kicker | ❓ |
 | Dribbler | ❓ |
 | Camera | ❓ |
 
 Legend:
 
-* 📋: Planned
+<!-- * 📋: Planned -->
 * ❓: In Discussion (Should we ever do that?)
 * 🧠: Brainstorming ongoing (Issue linked)
 * 🚧: In active development
