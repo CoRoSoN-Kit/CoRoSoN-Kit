@@ -1,5 +1,7 @@
 # CoRoSoN-Kit
 
+**Co**mponents for **Ro**bocupJunior **So**ccer **N**ewcomers
+
 [![Discord](https://img.shields.io/discord/971137288471998574?logo=discord)](https://discord.gg/xTAptqNB7J)
 [![GitHub Super-Linter](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/actions/workflows/super-linter.yml)
 [![Check Links](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/actions/workflows/check-links.yml/badge.svg)](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/actions/workflows/check-links.yml)
