@@ -38,7 +38,7 @@ The logic voltage level should be 3.3V.
 
 **decision:**
 
-### Motor Voltage (#16)
+### Motor Voltage ([#16](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/16))
 
 The motor voltage level should be limited to 9V.
 **or**
@@ -57,7 +57,7 @@ The motor voltage level should be limited to 12 V.
 
 We do limit to 9V, but to 12 V to be allowed in Lightweight league.
 
-### CPU (#18)
+### CPU ([#18](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/18))
 
 Use of a single board chip (like Arduino Nano, Rasberry Pico, ...)
 **or**
@@ -77,7 +77,7 @@ Build or own.
 
 We use one (or more) single board chip(s).
 
-### Components (#15)
+### Components ([#15](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/15))
 
 Only THT components should be used.
 **or**
