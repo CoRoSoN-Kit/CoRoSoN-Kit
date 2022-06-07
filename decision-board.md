@@ -38,19 +38,26 @@ The logic voltage level should be 3.3V.
 
 **decision:**
 
-### Motor Voltage
+### Motor Voltage (#16)
 
 The motor voltage level should be limited to 9V.
 **or**
-The motor voltage level should not be limited (maximum: battery voltage).
+The motor voltage level should be limited to 12 V.
 
 **pros:**
 
+- We would be prepared should there be a rule limitation to 9 V.
+
 **cons:**
+
+- Rule is not there yet, may never be decided.
+- Would make motor & motor driver selection more expensive & complicated.
 
 **decision:**
 
-### CPU
+We do limit to 9V, but to 12 V to be allowed in Lightweight league.
+
+### CPU (#18)
 
 Use of a single board chip (like Arduino Nano, Rasberry Pico, ...)
 **or**
@@ -58,11 +65,19 @@ Build or own.
 
 **pros:**
 
+- This is the only way we can use a modern chip without soldering SMD.
+- Boards are establuieshed.
+- Boards are well tested.
+
 **cons:**
+
+- (much) more work
 
 **decision:**
 
-### Components
+We use one (or more) single board chip(s).
+
+### Components (#15)
 
 Only THT components should be used.
 **or**
@@ -70,9 +85,18 @@ THT and SMD components should be used.
 
 **pros:**
 
+- No complicated SMD soldering for users of the kit.
+
 **cons:**
 
+- Significant limitation in the choice of components
+- More space required
+
 **decision:**
+
+Only THT components should be used.
+This does not mean that we do not use SMD parts at all.
+If parts can be bought already soldered (e.g. an assembled motor driver board) that is of course perfectly fine.
 
 ### PCB design
 
