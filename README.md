@@ -63,7 +63,7 @@ Currently monitored components of the CoRoSoN-Kit.
 | Visual-Programming integration| [🧠 #28](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/28) |
 | Kicker | ❓ |
 | Dribbler | ❓ |
-| Camera | ❓ |
+| Camera | [❓ #34](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/34) |
 
 Legend:
 
