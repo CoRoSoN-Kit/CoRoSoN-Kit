@@ -91,7 +91,8 @@ In order not to violate these rules:
 
 * We **DO NOT** offer a ready-to-play robot.
   * Instead, we offer a set of instructions to build components.
-  * Soldering / mounting / 3D-Printing / etc. still needs to be done by the teams.
+  * Production of the components (soldering / mounting / 3D-Printing / etc.) and
+  * assembling the components (creating base plates, developing a chassis, etc.) still needs to be done by the teams.
 * We **DO NOT** offer a software which plays soccer.
   * Instead, we are only providing libraries to use our components.
 * We **DO NOT** want to give any one team an advantage.
