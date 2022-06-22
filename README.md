@@ -13,6 +13,8 @@
 * LEGO®[^lego] MINDSTORMS®[^lego] is retired.
 * Let's develop components helping RoboCupJunior newcomers participate.
 
+*Note: We only give instructions for components here, which have to be built by teams themselves. So it is not as easy as using LEGO®[^lego] MINDSTORMS®[^lego].*
+
 ## Motivation
 
 Let's start with the objective of the RoboCup:
