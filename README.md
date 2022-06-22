@@ -54,7 +54,7 @@ Currently monitored components of the CoRoSoN-Kit.
 
 | Component | Status |
 | --- | --- |
-| Brain/Main CPU | [🧠 #18](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/18) |
+| Brain/Main CPU | [🧠 #18](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/18) & [🧠 #44](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/44) |
 | User Interface | [🧠 #23](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/23) |
 | Orientation sensor | [🧠 #22](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/22) |
 | Line detection | [🧠 #24](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/24) |
