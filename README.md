@@ -13,6 +13,8 @@
 * LEGO®[^lego] MINDSTORMS®[^lego] is retired.
 * Let's develop components helping RoboCupJunior newcomers participate.
 
+*Note: We only give instructions for components here, which have to be built by teams themselves. So it is not as easy as using LEGO®[^lego] MINDSTORMS®[^lego].*
+
 ## Motivation
 
 Let's start with the objective of the RoboCup:
@@ -52,7 +54,7 @@ Currently monitored components of the CoRoSoN-Kit.
 
 | Component | Status |
 | --- | --- |
-| Brain/Main CPU | [🧠 #18](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/18) |
+| Brain/Main CPU | [🧠 #18](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/18) & [🧠 #44](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/44) |
 | User Interface | [🧠 #23](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/23) |
 | Orientation sensor | [🧠 #22](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/22) |
 | Line detection | [🧠 #24](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/24) |
@@ -89,7 +91,8 @@ In order not to violate these rules:
 
 * We **DO NOT** offer a ready-to-play robot.
   * Instead, we offer a set of instructions to build components.
-  * Soldering / mounting / 3D-Printing / etc. still needs to be done by the teams.
+  * Production of the components (soldering / mounting / 3D-Printing / etc.) and
+  * assembling the components (creating base plates, developing a chassis, etc.) still needs to be done by the teams.
 * We **DO NOT** offer a software which plays soccer.
   * Instead, we are only providing libraries to use our components.
 * We **DO NOT** want to give any one team an advantage.

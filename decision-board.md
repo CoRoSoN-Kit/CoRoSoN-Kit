@@ -77,6 +77,8 @@ Build or own.
 
 We use one (or more) single board chip(s).
 
+We chose the [Raspberry Pi Pico](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)  because it is cheap, readily available and we think it meets our requirements.
+
 ### Components ([#15](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/15))
 
 Only THT components should be used.
