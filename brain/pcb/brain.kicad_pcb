@@ -568,7 +568,7 @@
       (net 43 "unconnected-(U1-Pad43)") (pinfunction "SWDIO") (pintype "bidirectional") (tstamp b54a4b1d-01e4-45cc-83b8-fc3a1612b71b))
     (pad "43" thru_hole oval (at 2.54 23.9) (size 1.7 1.7) (drill 1.02) (layers *.Cu *.Mask)
       (net 43 "unconnected-(U1-Pad43)") (pinfunction "SWDIO") (pintype "bidirectional") (tstamp caf1c78d-a826-4f72-875a-3a1d720e3f41))
-    (model "${KIPRJMOD}/../../../libs/kicad/pi_pico/Pico.wrl"
+    (model "${KIPRJMOD}/../../libs/kicad/pi_pico/Pico.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
