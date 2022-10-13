@@ -1,0 +1,9 @@
+blank_issues_enabled: true
+
+contact_links:
+  - name: Meet us
+    url: https://discord.gg/xTAptqNB7J
+    about: Get in touch with us on Discord.
+  - name: Discuss
+    url: https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/discussions/new
+    about: Ask questions and discuss with other community members 📄
