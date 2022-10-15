@@ -18,11 +18,11 @@ It has to be further developed, depending on the state of development, in order 
 
 ### Size
 
-*No decision here, every team has to decide and construct for their own.*
+_No decision here, every team has to decide and construct for their own._
 
 ### Number of wheels
 
-*No decision here, every team has to decide and construct for their own.*
+_No decision here, every team has to decide and construct for their own._
 
 ## Electronic
 
@@ -77,7 +77,7 @@ Build or own.
 
 We use one (or more) single board chip(s).
 
-We chose the [Raspberry Pi Pico](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)  because it is cheap, readily available and we think it meets our requirements.
+We chose the [Raspberry Pi Pico](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) because it is cheap, readily available and we think it meets our requirements.
 
 ### Components ([#15](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/15))
 
