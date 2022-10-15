@@ -9,7 +9,7 @@ First of all, don't feel bad if a job fails after your changes.
 Believe me, happens to everyone, all the time 😉.
 If you click on the small red cross, you will get information about which job failed and why.
 
-### "Lint Code Base" fails
+### "Lint Codebase" fails
 
 We use the [super-linter](https://github.com/github/super-linter), which bundles different linters, depending on the file type.
 To find and fix the problem, you can either commit changes and wait for the job or install the linter locally and fix the problem there before committing.
@@ -50,25 +50,25 @@ A typical development process is therefore:
 2. Possible solutions and actions are discussed there.
 3. A person who wants to take on this task will communicate this in the issue and will be assigned to it.
 4. The changes are developed in a separate branch.
-   * They consist of at least one, but often several commits.
+   - They consist of at least one, but often several commits.
 5. The developer makes a pull request to ask for the changes to be incorporated into main.
 6. The changes are reviewed by a reviewer.
-   * Does this fix the issue and can be closed?
-   * Were all style rules followed?
-   * Are the changes traceable and are they sensibly documented?
-7. *Optional: If there are change requests by the reviewer, they will be discussed and submitted by the developer.*
+   - Does this fix the issue and can be closed?
+   - Were all style rules followed?
+   - Are the changes traceable and are they sensibly documented?
+7. _Optional: If there are change requests by the reviewer, they will be discussed and submitted by the developer._
 8. The changes are merged and are in the main branch.
 9. The issue is closed and the feature branch is deleted.
 
 ### Tools
 
-There are countless tools to use git, many just use the command line, but there are also nice graphical user interfaces.
+There are countless tools to use git, many just use the command-line, but there are also nice graphical user interfaces.
 [Here's](https://git-scm.com/downloads/guis) a nice list.
 Often git is also integrated in the development environment.
 For example, with [Visual Studio Code (vscode)](https://code.visualstudio.com/).
-The GIT integration in vscode becomes really powerful with the following plugins [^IMHO_tknobi]:
+The GIT integration in vscode becomes really powerful with the following plugins [^imho_tknobi]:
 
-* [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-* [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+- [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
-[^IMHO_tknobi]: Note: Personal opinion from tknobi, feel free to use the tools you love.
+[^imho_tknobi]: Note: Personal opinion from tknobi, feel free to use the tools you love.
