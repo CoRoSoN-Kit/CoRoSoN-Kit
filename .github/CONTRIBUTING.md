@@ -9,7 +9,7 @@ First of all, don't feel bad if a job fails after your changes.
 Believe me, happens to everyone, all the time 😉.
 If you click on the small red cross, you will get information about which job failed and why.
 
-### "Lint Code Base" fails
+### "Lint Codebase" fails
 
 We use the [super-linter](https://github.com/github/super-linter), which bundles different linters, depending on the file type.
 To find and fix the problem, you can either commit changes and wait for the job or install the linter locally and fix the problem there before committing.
@@ -62,7 +62,7 @@ A typical development process is therefore:
 
 ### Tools
 
-There are countless tools to use git, many just use the command line, but there are also nice graphical user interfaces.
+There are countless tools to use git, many just use the command-line, but there are also nice graphical user interfaces.
 [Here's](https://git-scm.com/downloads/guis) a nice list.
 Often git is also integrated in the development environment.
 For example, with [Visual Studio Code (vscode)](https://code.visualstudio.com/).
