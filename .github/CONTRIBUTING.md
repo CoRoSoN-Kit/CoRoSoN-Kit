@@ -3,6 +3,23 @@
 This document is intended to answer questions from (potentially new) contributors for all.
 Do you have a question which is not answered here? Feel free to [open an issue](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/new) about it.
 
+## Repo/Folder structure
+
+```text
+coroson-kit
+├───src        // software
+│   ├───<component>
+├───hw         // hardware/pcb designs
+│   └───<component>
+├───doc        // documentation
+|   ├───README.md
+│   └───<component>
+├───dep        // dependencies/libs
+├───samples    // minimal sample code
+├───test       // unit/integration tests
+└───tools      // additional tooling like bash scripts
+```
+
 ## A job failed after my commit / pull request 😮
 
 First of all, don't feel bad if a job fails after your changes.
