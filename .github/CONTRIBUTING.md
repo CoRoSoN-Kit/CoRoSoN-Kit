@@ -16,8 +16,8 @@ To find and fix the problem, you can either commit changes and wait for the job 
 
 #### Linting Markdown files
 
-When documenting with Markdown [markdownlint](https://github.com/igorshubovych/markdownlint-cli) is used.
-Whe using the highly recommended editor [Visual Studio Code (vscode)](https://code.visualstudio.com/) you can install it as a [plugin](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint).
+When documenting with Markdown, [markdownlint](https://github.com/igorshubovych/markdownlint-cli) is used.
+When using the highly recommended [Visual Studio Code (vscode)](https://code.visualstudio.com/) editor, you can install it as a [plugin](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint).
 After that you see Markdown errors directly in the "PROBLEMS" section of vscode.
 
 #### Linting text
