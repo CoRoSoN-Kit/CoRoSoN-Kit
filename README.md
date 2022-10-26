@@ -39,14 +39,14 @@ It's unclear whether LEGO®[^lego] will ever change this, posing a potential thr
 We want a platform to make getting into the RoboCupJunior Soccer competition easier and (potentially much) more affordable.
 Perhaps even filling part of the gap that LEGO®[^lego] may create in the near future.
 This project should be sustainable and not depend on any company interests or decisions.
-We want to develop basic components which Teams can build and improve by themselves.
+We want to develop basic components which teams can build and improve by themselves.
 
 Any development will be open source and open hardware.
-The try to make the process as transparent as possible.
-Any discussions will be public (here and/or discord) such that everyone is able to understand why we have decided for or against certain things.
+In an attempt to make our processes as transparent as possible,
+any discussions will be public (here and/or discord) such that everyone is able to understand why we have decided for or against certain things.
 
 We would love to see robots build with the CoRoSoN-Kit in the standard leagues where LEGO®[^lego] robots are allowed today.
-Until then, the components can be used in the LightWeight and Open League.
+Until then, the components can be used in the LightWeight and Open leagues of the RCJ Soccer competition.
 
 ### Components
 
