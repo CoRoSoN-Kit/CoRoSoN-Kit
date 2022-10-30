@@ -49,7 +49,7 @@ A typical development process is therefore:
 1. A problem, an idea, a feature request, or something similar arises in the form of an issue.
 2. Possible solutions and actions are discussed there.
 3. A person who wants to take on this task will communicate this in the issue and will be assigned to it.
-4. The changes are developed in a separate branch.
+4. The changes are developed in a separate branch and/or fork.
    - They consist of at least one, but often several commits.
 5. The developer makes a pull request to ask for the changes to be incorporated into main.
 6. The changes are reviewed by a reviewer.
@@ -57,10 +57,10 @@ A typical development process is therefore:
    - Were all style rules followed?
    - Are the changes traceable and are they sensibly documented?
 7. _Optional: If there are change requests by the reviewer, they will be discussed and submitted by the developer._
-8. The changes are merged and are in the main branch.
+8. The changes are merged into the upstream main branch.
 9. The issue is closed and the feature branch is deleted.
 
-### Tools
+### Git tooling
 
 There are countless tools to use git, many just use the command-line, but there are also nice graphical user interfaces.
 [Here's](https://git-scm.com/downloads/guis) a nice list.
