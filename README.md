@@ -113,6 +113,8 @@ We are not a company and have no commercial interest.
 However, we are thinking about founding a non-profit organization at some point.
 For example, this would give us the opportunity to distribute circuit board blanks (to be assembled) or electronic parts as sets without unnecessary price markups.
 
+To learn more about the people involved and who uses CoRoSoN-Kit, check out [Contributors](.github/CONTRIBUTORS.md).
+
 ### Call for Contribution
 
 The CoRoSoN-Kit is open-source for a reason and that is you.
