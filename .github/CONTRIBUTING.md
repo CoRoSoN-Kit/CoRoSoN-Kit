@@ -3,6 +3,27 @@
 This document is intended to answer questions from (potentially new) contributors for all.
 Do you have a question which is not answered here? Feel free to [open an issue](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/new) about it.
 
+## Software and tools needed / recommended
+
+We strive to use open source software and tools as much as possible. This is not only because we believe in open source, but also because it makes it easier for everyone to contribute.
+
+### Git
+
+See [Git tooling](#git-tooling)
+
+### PCB design / EDA
+
+We use [KiCad](https://kicad.org/) for PCB design.
+
+### 3D design / CAD
+
+TBD
+Probably [FreeCAD](https://www.freecadweb.org/) or Fusion 360 due to its popularity and availability of a free license for students/hobbyists.
+
+### Code editor / IDE
+
+[Visual Studio Code](https://code.visualstudio.com/) is recommended for most tasks. It is free, open source and available for all major operating systems. Additionally, it has a large number of extensions to support virtually any programming language.
+
 ## A job failed after my commit / pull request 😮
 
 First of all, don't feel bad if a job fails after your changes.
