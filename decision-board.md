@@ -46,11 +46,11 @@ The motor voltage level should be limited to 12 V.
 
 **pros:**
 
-- We would be prepared should there be a rule limitation to 9 V.
+- ~We would be prepared should there be a rule limitation to 9 V.~
 
 **cons:**
 
-- Rule is not there yet, may never be decided.
+- ~Rule is not there yet, may never be decided.~
 - Would make motor & motor driver selection more expensive & complicated.
 
 **decision:**
