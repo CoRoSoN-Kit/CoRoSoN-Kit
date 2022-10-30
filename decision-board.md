@@ -1,6 +1,6 @@
 # Decision Board
 
-At some point the first robot using our CoRoSoN-Kit will be built and before that a lot of decisions have to be made. How should its individual components be designed?
+At some point, the first robot using our CoRoSoN-Kit will be built and before that a lot of decisions have to be made. How should its individual components be designed?
 Here is an overview (in keywords) of the discussed advantages and
 disadvantages of the different given options.
 
@@ -24,7 +24,7 @@ _No decision here, every team has to decide and construct for their own._
 
 _No decision here, every team has to decide and construct for their own._
 
-## Electronic
+## Electronics
 
 ### Logic Voltage
 
@@ -102,7 +102,7 @@ If parts can be bought already soldered (e.g. an assembled motor driver board) t
 
 ### PCB design
 
-There should be a minimum linewith (of ??mm) and a minimum spacing (of ??mm) between the tracks so that it is possible to etch or mill the PCB at home.
+There should be a minimum linewidth (of ??mm) and a minimum spacing (of ??mm) between the tracks so that it is possible to etch or mill the PCB at home.
 
 **pros:**
 
