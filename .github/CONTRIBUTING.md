@@ -13,8 +13,9 @@ coroson-kit
 ├───hw         // hardware/pcb designs
 │   ├───lib    // third party hardware libraries (e.g. footprints)
 │   └───<component>
-├───doc        // documentation
+├───doc        // home of technical documentation
 |   ├───README.md
+|   ├───GETTING_STARTED.md
 │   └───<component>
 ├───samples    // minimal sample code
 ├───test       // unit/integration tests
