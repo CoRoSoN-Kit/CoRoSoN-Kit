@@ -8,13 +8,14 @@ Do you have a question which is not answered here? Feel free to [open an issue](
 ```text
 coroson-kit
 ├───src        // software
-│   ├───<component>
+│   ├───lib    // third party software libraries
+│   └───<component>
 ├───hw         // hardware/pcb designs
+│   ├───lib    // third party hardware libraries (e.g. footprints)
 │   └───<component>
 ├───doc        // documentation
 |   ├───README.md
 │   └───<component>
-├───dep        // dependencies/libs
 ├───samples    // minimal sample code
 ├───test       // unit/integration tests
 └───tools      // additional tooling like bash scripts
