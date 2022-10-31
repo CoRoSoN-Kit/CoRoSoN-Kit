@@ -55,7 +55,7 @@ The motor voltage level should be limited to 12 V.
 
 **decision:**
 
-We do limit to 9V, but to 12 V to be allowed in Lightweight league.
+We do not limit to 9V, but to 12 V to be allowed in Lightweight league.
 
 ### CPU ([#18](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/18))
 
@@ -66,7 +66,7 @@ Build or own.
 **pros:**
 
 - This is the only way we can use a modern chip without soldering SMD.
-- Boards are establuieshed.
+- Boards are established.
 - Boards are well tested.
 
 **cons:**

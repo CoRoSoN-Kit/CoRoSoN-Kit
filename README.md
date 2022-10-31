@@ -41,14 +41,14 @@ Making things worse, LEGO®[^lego] is allegedly looking to discontinue the MINDS
 We want a platform to make getting into the RoboCupJunior Soccer competition easier and (potentially much) more affordable.
 Perhaps even filling part of the gap that LEGO®[^lego] may create in the near future.
 This project should be sustainable and not depend on any company interests or decisions.
-We want to develop basic components which Teams can build and improve by themselves.
+We want to develop basic components which teams can build and improve by themselves.
 
 Any development will be open source and open hardware.
-The try to make the process as transparent as possible.
-Any discussions will be public (here and/or discord) such that everyone is able to understand why we have decided for or against certain things.
+In an attempt to make our processes as transparent as possible,
+any discussions will be public (here and/or discord) such that everyone is able to understand why we have decided for or against certain things.
 
 We would love to see robots build with the CoRoSoN-Kit in the standard leagues where LEGO®[^lego] robots are allowed today.
-Until then, the components can be used in the LightWeight and Open League.
+Until then, the components can be used in the LightWeight and Open leagues of the RCJ Soccer competition.
 
 ### Components
 
@@ -103,14 +103,14 @@ In order not to violate these rules:
 - We **DO NOT** provide a tutorial on _"how to play soccer"_ (or similar)
   - Teams must develop _all_ strategies / higher-level logic / etc. to play soccer themselves.
 - We **DO NOT** want a _highly_ competitive system which outperforms others out of-the-box
-  - We will not to provide the fastest motors, the best camera, the most powerful processors, etc. Instead we provide basic components which are affordable and available to everybody.
-  - To actually win tournaments, individual teams would need to _substantially_ change and improve all components.
+  - We will not provide the fastest motors, the best camera, the most powerful processors, etc. Instead we provide basic components which are affordable and available to everybody.
+  - To actually win tournaments, individual teams would need to _substantially_ change and/or improve all components.
 
-To summarize: Similar to LEGO®[^lego] robots, the CoRoSoN-Kit should be composable into a robot capable of attending any current league with relative ease, but it will always require a significant effort by the individual teams themselves.
+To summarize: Similar to LEGO®[^lego] robots, the CoRoSoN-Kit should be composable into a robot capable of attending any current league with relative ease, but it must always require a significant effort by the individual teams themselves in order to thrive.
 
 ## Who we are
 
-We are a group of former participants, coaches, referees, volunteers of RoboCupJunior Soccer.
+We are a group of former participants, coaches, referees and volunteers of RoboCupJunior Soccer.
 We are not a company and have no commercial interest.
 However, we are thinking about founding a non-profit organization at some point.
 For example, this would give us the opportunity to distribute circuit board blanks (to be assembled) or electronic parts as sets without unnecessary price markups.
