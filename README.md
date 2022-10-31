@@ -34,6 +34,8 @@ Additionally, the LEGO®[^lego] MINDSTORMS®[^lego] successor to the EV3 - Robot
 The reason for this is that the new Robot Inventor app does not yet offer the option of integrating non-official sensor blocks.
 It's unclear whether LEGO®[^lego] will ever change this, posing a potential threat to the ease of entry for new and established teams alike.
 
+Making things worse, LEGO®[^lego] is allegedly looking to discontinue the MINDSTORMS®[^lego] line altogether by the end of 2022 with the Robot Inventor app following suit shortly after as reported by _[brickset.com](https://brickset.com/article/84219)_.
+
 ## Our Proposal
 
 We want a platform to make getting into the RoboCupJunior Soccer competition easier and (potentially much) more affordable.

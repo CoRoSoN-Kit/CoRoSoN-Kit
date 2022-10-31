@@ -20,6 +20,27 @@ coroson-kit
 └───tools      // additional tooling like bash scripts
 ```
 
+## Software and tools needed / recommended
+
+We strive to use open source software and tools as much as possible. This is not only because we believe in open source, but also because it makes it easier for everyone to contribute.
+
+### Git
+
+See [Git tooling](#git-tooling)
+
+### PCB design / EDA
+
+We use [KiCad](https://kicad.org/) for PCB design.
+
+### 3D design / CAD
+
+TBD
+Probably [FreeCAD](https://www.freecadweb.org/) or Fusion 360 due to its popularity and availability of a free license for students/hobbyists.
+
+### Code editor / IDE
+
+[Visual Studio Code](https://code.visualstudio.com/) is recommended for most tasks. It is free, open source and available for all major operating systems. Additionally, it has a large number of extensions to support virtually any programming language.
+
 ## A job failed after my commit / pull request 😮
 
 First of all, don't feel bad if a job fails after your changes.
@@ -66,7 +87,7 @@ A typical development process is therefore:
 1. A problem, an idea, a feature request, or something similar arises in the form of an issue.
 2. Possible solutions and actions are discussed there.
 3. A person who wants to take on this task will communicate this in the issue and will be assigned to it.
-4. The changes are developed in a separate branch.
+4. The changes are developed in a separate branch and/or fork.
    - They consist of at least one, but often several commits.
 5. The developer makes a pull request to ask for the changes to be incorporated into main.
 6. The changes are reviewed by a reviewer.
@@ -74,10 +95,10 @@ A typical development process is therefore:
    - Were all style rules followed?
    - Are the changes traceable and are they sensibly documented?
 7. _Optional: If there are change requests by the reviewer, they will be discussed and submitted by the developer._
-8. The changes are merged and are in the main branch.
+8. The changes are merged into the upstream main branch.
 9. The issue is closed and the feature branch is deleted.
 
-### Tools
+### Git tooling
 
 There are countless tools to use git, many just use the command-line, but there are also nice graphical user interfaces.
 [Here's](https://git-scm.com/downloads/guis) a nice list.
