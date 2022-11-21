@@ -32,8 +32,8 @@ If you click on the small red cross, you will get information about which job fa
 
 ### "Lint Codebase" fails
 
-We use the [super-linter](https://github.com/github/super-linter), which bundles different linters, depending on the file type.
-To find and fix the problem, you can either commit changes and wait for the job or install the linter locally and fix the problem there before committing.
+We use the [mega-linter](https://oxsecurity.github.io/megalinter/latest/), which bundles different linters, depending on the file type.
+To find and fix the problem, you can either commit changes and wait for the job or [install and run the linter locally](https://oxsecurity.github.io/megalinter/latest/mega-linter-runner/) and fix the problem there before committing.
 
 #### Linting Markdown files
 
@@ -41,14 +41,9 @@ When documenting with Markdown [markdownlint](https://github.com/igorshubovych/m
 Whe using the highly recommended editor [Visual Studio Code (vscode)](https://code.visualstudio.com/) you can install it as a [plugin](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint).
 After that you see Markdown errors directly in the "PROBLEMS" section of vscode.
 
-#### Linting text
+### "markdown-link-check" failed
 
-[textlint](https://textlint.github.io/) is used to lint written text.
-There is also a [vscode plugin](https://marketplace.visualstudio.com/items?itemName=taichi.vscode-textlint) here, but the setup was not straight-forward, so I skipped the local installation.
-
-### "Check Links" failed
-
-Nobody likes broken links, so we use a GitHub action to check all links.
+Nobody likes broken links, so mega linter uses [markdown-link-check](https://oxsecurity.github.io/megalinter/latest/descriptors/markdown_markdown_link_check/) to check all links.
 See the job details to see the broken link and adjust it.
 
 ## Working with GIT & GitHub is new to me. How to start?

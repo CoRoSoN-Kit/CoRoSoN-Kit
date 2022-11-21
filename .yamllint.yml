@@ -1,0 +1,15 @@
+---
+# This is our configuration file for yamllint!
+# It extends the default conf by adjusting some options.
+
+extends: default
+
+rules:
+  truthy: disable
+  comments:
+    min-spaces-from-content: 1
+  line-length: disable
+  braces:
+    forbid: false
+    min-spaces-inside: 1
+    max-spaces-inside: 1
