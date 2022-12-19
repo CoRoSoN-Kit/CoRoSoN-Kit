@@ -3,8 +3,7 @@
 **Co**mponents for **Ro**bocupJunior **So**ccer **N**ewcomers
 
 [![Discord](https://img.shields.io/discord/971137288471998574?logo=discord)](https://discord.gg/xTAptqNB7J)
-[![GitHub Super-Linter](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/actions/workflows/super-linter.yml)
-[![Check Links](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/actions/workflows/check-links.yml/badge.svg)](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/actions/workflows/check-links.yml)
+[![GitHub Mega-Linter](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/actions/workflows/linter.yml)
 [![License](https://img.shields.io/github/license/CoRoSoN-Kit/CoRoSoN-Kit)](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/blob/main/LICENSE)
 
 ## TLDR
@@ -55,7 +54,7 @@ Until then, the components can be used in the LightWeight and Open leagues of th
 Currently monitored components of the CoRoSoN-Kit.
 
 | Component                      | Status                                                                                                                          |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | Brain/Main CPU                 | [🧠 #18](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/18) & [🧠 #44](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/44) |
 | User Interface                 | [🧠 #23](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/23)                                                                  |
 | Orientation sensor             | [🧠 #22](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/22)                                                                  |
@@ -65,9 +64,9 @@ Currently monitored components of the CoRoSoN-Kit.
 | Omniwheel                      | [🧠 #26](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/26)                                                                  |
 | IDE integration                | [🧠 #27](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/27)                                                                  |
 | Visual-Programming integration | [🧠 #28](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/28)                                                                  |
-| Kicker                         | ❓                                                                                                                              |
-| Dribbler                       | ❓                                                                                                                              |
-| Camera                         | [❓ #34](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/34)                                                                  |
+| Kicker                         | ❓                                                                                                                               |
+| Dribbler                       | ❓                                                                                                                               |
+| Camera                         | [❓ #34](https://github.com/CoRoSoN-Kit/CoRoSoN-Kit/issues/34)                                                                   |
 
 Legend:
 
