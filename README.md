@@ -124,11 +124,12 @@ Everything is welcome!
 
 Especially to teams utilizing the CoRoSoN-Kit: You are very welcome to play back your improvements, find the bugs we made in the libraries or just send us pictures of your robot. This way we can all celebrate the success of the robots in 2050 🤖⚽🏆.
 
-Team Bohlebots is testing a mainboard and an IR-seeker-ring right now : Github: https://github.com/bohlebots/soccer (Bearbeitet)
-
-
 ### Contributing
 
 If you want to contribute to the CoRoSoN-Kit, please read our [contribution guidelines](.github/CONTRIBUTING.md).
+
+### Teams utilizing CoRoSoN
+
+- Team Bohlebots is testing a mainboard and an IR-seeker-ring right now. [Github](https://github.com/bohlebots/soccer)
 
 [^lego]: Disclaimer: LEGO® and MINDSTORMS® are trademarks of the LEGO® Group, which does not sponsor, authorize or endorse this site.
